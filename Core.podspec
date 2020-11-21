@@ -21,7 +21,7 @@ Pod::Spec.new do |spec|
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
 
-  s.license = { :type => "MIT", :file => "LICENSE" }
+  spec.license = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
