@@ -44,7 +44,7 @@ Pod::Spec.new do |spec|
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
 
-  spec.source       = { :git => "https://github.com/egiwibowo13/Modularization-Core", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/egiwibowo13/Modularization-Core.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
